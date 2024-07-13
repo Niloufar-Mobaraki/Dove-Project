@@ -1,0 +1,7 @@
+@font-face{ font-family: yekan;
+ src: url(./Qs_Iranyekan\ bold.ttf);
+ 
+}
+*{
+    font-family: yekan;
+}
